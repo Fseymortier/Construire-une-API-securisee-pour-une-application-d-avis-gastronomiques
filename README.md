@@ -1,7 +1,5 @@
 # Hot-Sauce
 
-#NodeJs
-
 Pour consulter le projets:
 
 Télécharger NodeJs à l'adresse suivante: https://nodejs.org/fr/download/
