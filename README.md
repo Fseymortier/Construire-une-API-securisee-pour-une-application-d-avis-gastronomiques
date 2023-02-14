@@ -1,17 +1,21 @@
 # Hot-Sauce
 
-Pour consulter le projets:
+#NodeJs
 
-Télécharger NodeJs à l'adresse suivante: https://nodejs.org/fr/download/
+Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/ 
 
-Verfier que les dernières versions de Node et npm sont installées avec les commandes suivantes:
+Pour corréler NodeJs avec la base donnée télécharger WampServer64 à l'adresse suivante : https://www.wampserver.com/ 
 
-  node --version
+Vérifier que les dernières versions de Node et npm sont installées avec les commandes suivantes : 
 
-  npm --version
+node --version 
 
-Après avoir télécharger les ressources du projets:
+npm --version 
 
-Avec un premier terminal de commande positionner vous dans le dossier "backend" et lancer la commande suivante: node server.js
- 
-Avec un deuxième terminal de commande positionner vous dans le dossier "frontend" et lancer la commande suivante: npm run start
+Exécuter et lancer WampServer64 
+
+Puis dans l'invité de commande windows positionner vous dans le dossier "backend" et lancer la commande suivante : node server.js 
+
+#React 
+
+Dans un autre invité de commande, placer vous dans le dossier "frontend" et lancer la commande : npm start 
