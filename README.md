@@ -2,18 +2,22 @@
 
 #NodeJs
 
-Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/ 
+Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/
 
-Vérifier que les dernières versions de Node et npm sont installées avec les commandes suivantes : 
+Vérifier que les dernières versions de Node et npm sont installées avec les commandes suivantes :
 
-node --version 
+node --version
 
-npm --version 
+npm --version
 
-Exécuter et lancer WampServer64 
+Exécuter et lancer WampServer64
 
-Puis dans l'invité de commande windows positionner vous dans le dossier "backend" et lancer la commande suivante : node server.js 
+Dans l'invité de commande windows positionner vous dans le dossier "backend"
 
-#React 
+Puis lancer la commande suivante : node server.js
 
-Dans un autre invité de commande, placer vous dans le dossier "frontend" et lancer la commande : npm start 
+#React
+
+Dans un autre invité de commande, placer vous dans le dossier "frontend"
+
+Puis lancer la commande : npm start
