@@ -4,8 +4,6 @@
 
 Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/ 
 
-Pour corréler NodeJs avec la base donnée télécharger WampServer64 à l'adresse suivante : https://www.wampserver.com/ 
-
 Vérifier que les dernières versions de Node et npm sont installées avec les commandes suivantes : 
 
 node --version 
