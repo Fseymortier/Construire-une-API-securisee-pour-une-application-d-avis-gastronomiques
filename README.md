@@ -4,11 +4,11 @@
 
 Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/
 
-Vérifier que les dernières versions de Node et npm sont installées avec les commandes suivantes :
+Vérifier que vous avez bien Microsoft visuall C++ Redistributable d'installer avec tous les packages
 
-node --version
+Si ce n'est pas le cas ous pouvez le télécharger ici: https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170
 
-npm --version
+Vérifier que la dernière versions de Node est installées avec la commande suivante : node --version
 
 Exécuter et lancer WampServer64
 
