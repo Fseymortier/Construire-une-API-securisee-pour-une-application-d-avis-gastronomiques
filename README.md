@@ -1,23 +1,31 @@
-# Hot-Sauce
+# Hot-Sauce 
 
-#NodeJs
+# NodeJs 
 
-Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/
+Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/ (la dernière version LTS convient) 
 
-Vérifier que vous avez bien Microsoft visuall C++ Redistributable d'installer avec tous les packages
+# Microsoft Visual C++ 
 
-Si ce n'est pas le cas ous pouvez le télécharger ici: https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170
+Vérifier que vous avez bien Microsoft visuall C++ Redistributable d'installer avec tous les packages 
 
-Vérifier que la dernière versions de Node est installées avec la commande suivante : node --version
+Si ce n'est pas le cas vous pouvez le télécharger ici : https://learn.microsoft.com/fr-fr/cpp/windows/latest-supported-vc-redist?view=msvc-170 
 
-Exécuter et lancer WampServer64
+# WampServer64 
 
-Dans l'invité de commande windows positionner vous dans le dossier "backend"
+Pour corréler NodeJs avec la base de données télécharger WampServer64 à l'adresse suivante : https://www.wampserver.com/ 
 
-Puis lancer la commande suivante : node server.js
+Exécuter WampServer64 
 
-#React
+# Lancer le projet  
 
-Dans un autre invité de commande, placer vous dans le dossier "frontend"
+Dans l'invité de commande Powershell en mode administrateur, positionner vous dans le dossier "backend" 
 
-Puis lancer la commande : npm start
+Installer les packages express avec la commande suivante : npm install express  
+
+Puis lancer la commande suivante : node server.js 
+
+Dans un autre invité de commande Powershell en mode administrateur, positionner vous dans le dossier "frontend" 
+
+Puis lancer la commande suivante : npm start 
+
+Enfin dans votre navigateur saisissez l'url suivant : http://localhost:4200/ 
