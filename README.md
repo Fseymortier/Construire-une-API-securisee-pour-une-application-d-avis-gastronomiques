@@ -4,6 +4,10 @@
 
 Télécharger NodeJs à l'adresse suivante : https://nodejs.org/fr/download/ (la dernière version LTS convient) 
 
+# Angular
+
+Installer les dépendances avec la commande : npm i -g @angular/cli
+
 # Microsoft Visual C++ 
 
 Vérifier que vous avez bien Microsoft visuall C++ Redistributable d'installer avec tous les packages 
